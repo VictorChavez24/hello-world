@@ -1,2 +1,4 @@
 # hello-world
 This repository is for extra credit for class ITSE-2302
+
+Hello to the person reading this, Hopefully you having a great day/afternoon/night. I'm Victor Chavez study on Lonestar College in order to get an associates with in Computer Programming, at first I was not interested in doing computer stuff, I was thinking to do Art on college, but in high school I switch my decision and enter to college to get my computer programming associates. This decision came after I took a class of web design That way different that what I'm doing right now but it was my first step in programs that are used to create different programms for a computer to read. After sometime in this carrer I been enjoing more working with computers and had been a really unespected experience, Thank you for reading this BYE!.
